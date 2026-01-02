@@ -1,0 +1,8 @@
+{
+  "name": "UZ Chat - Universal Zen AI",
+  "description": "A premium AI chat interface featuring real-time voice, multi-modal analysis, image generation, and live web search using Gemini models.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
